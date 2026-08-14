@@ -9,7 +9,6 @@ The repository includes R codes for:
 1. Control-limit calibration for the MBGLR, MBCUSUM and 2MBCUSUM schemes;
 2. In-control SSATS estimation;
 3. Out-of-control SSATS and SSSDTS estimation;
-4. Parameter-selection studies for the moving-window size \(m\) and the prior mean vector \(m_0\).
 
 The control limits are calibrated by Monte Carlo simulation so that the in-control \(SSATS_0\) is approximately 370.
 
